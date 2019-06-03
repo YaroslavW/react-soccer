@@ -1,0 +1,5 @@
+.gitigore
+/fromMe
+/node_modules
+/build
+**/images
